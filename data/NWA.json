@@ -1,0 +1,45 @@
+{
+  "promotion": "NWA",
+  "events": [
+    {
+      "name":           "NWA Powerrr TV Tapings",
+      "promotion":      "NWA",
+      "date":           "09/05/2025",
+      "venue":          "WEDU PBS Studios, Tampa, FL",
+      "type":           null,
+      "description":    "NWA returns to Tampa, FL on 9/5/25 @ WEDU PBS Studios: An evening of NWA Wrestling for the entire family",
+      "tickets":        "https://www.eventbrite.com/e/nwa-powerrr-tapings-wedu-pbs-studios-friday-sept-5th-2025-tickets-1481482075769?utm-campaign=social&utm-content=attendeeshare&utm-medium=discovery&utm-term=listing&utm-source=cp&aff=ebdsshcopyurl",
+      "watch":          null
+    },
+    {
+      "name":           "NWA ON TOUR",
+      "promotion":      "NWA",
+      "date":           "09/26/2025",
+      "venue":          "Sacred Heart Catholic Academy of Glendale, Queens, NY",
+      "type":           null,
+      "description":    "Get ready for a night of high-flying, hard-hitting LIVE Pro Wrestling as the NWA comes to Queens, NY on Friday, September 26th, 2025!",
+      "tickets":        "https://www.eventbrite.com/e/nwa-on-tour-queens-ny-friday-sept-26th-2025-tickets-1612314358649?aff=erelpanelorg",
+      "watch":          null
+    },
+    {
+      "name":           "NWA ON TOUR",
+      "promotion":      "NWA",
+      "date":           "09/27/2025",
+      "venue":          "All Sportz Melville, Melville, NY",
+      "type":           null,
+      "description":    "The stars of NWA and CEP will be wrestling LIVE on 9/27 in Melville on Long Island, New York! Don't miss out!",
+      "tickets":        "https://www.eventbrite.com/e/nwa-on-tour-tickets-1609697772369",
+      "watch":          null
+    },
+    {
+      "name":           "Samhain 3",
+      "promotion":      "NWA",
+      "date":           "10/17/2025",
+      "venue":          "Center Stage Theater, Atlanta, GA",
+      "type":           null,
+      "description":    "On Friday, October the 17th, The National Wrestling Alliance presents: Samhain Part 3.",
+      "tickets":        "https://www.ticketmaster.com/event/0E00630692141446",
+      "watch":          null
+    }
+  ]
+}

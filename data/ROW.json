@@ -1,0 +1,15 @@
+{
+  "promotion":          "ROW",
+  "events": [
+    {
+      "name":           "Gold Rush",
+      "promotion":      "ROW",
+      "date":           "09/13/2025",
+      "venue":          "Walker Texas Lawyer Arena, Texas City, TX",
+      "type":           "PPV",
+      "description":    null,
+      "tickets":        "https://realityofwrestling.com/row-events/row-live-platinum-gold-rush-sep-13-2025/",
+      "watch":          "https://www.youtube.com/channel/UCxVwSpuTToZR0gN2sWv5BWA"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "promotion": "MLW",
+  "events": [
+    {
+      "name":           "FIGHTLAND",
+      "promotion":      "MLW",
+      "date":           "09/13/2025",
+      "venue":          "Nytex Sports Centre - Olympic Hall, Richland Hills, TX",
+      "type":           "FREE",
+      "description":    "Major League Wrestling presents MLW: FIGHTLAND 2025: a premium live event.",
+      "tickets":        "https://www.eventbrite.com/e/mlw-fightland-2025-tickets-1142876637789?aff=ebdsoporgprofile",
+      "watch":          "https://www.youtube.com/@mlw"
+    },
+    {
+      "name":           "Slaughterhouse",
+      "promotion":      "MLW",
+      "date":           "10/04/2025",
+      "venue":          "Nytex Sports Centre - Olympic Hall, Richland Hills, TX",
+      "type":           "FREE",
+      "description":    "Major League Wrestling presents MLW: SLAUGHTERHOUSE: a premium live event.",
+      "tickets":        "https://www.eventbrite.com/e/mlw-slaughterhouse-2025-tickets-1321174621859?aff=ebdsoporgprofile",
+      "watch":          "https://www.youtube.com/@mlw"
+    },
+    {
+      "name":           "Lucha de los Muertos",
+      "promotion":      "MLW",
+      "date":           "11/20/2025",
+      "venue":          "The Charleston Music Hall, Charleston, SC",
+      "type":           "FREE",
+      "description":    "MLW x Don Gato Tequila: Lucha de los Muertos",
+      "tickets":        "https://www.eventbrite.com/e/mlw-lucha-apocalypto-2026-tickets-1348670703379?aff=ebdsoporgprofile",
+      "watch":          "https://www.youtube.com/@mlw"
+    },
+    {
+      "name":           "Lucha Apocalypto",
+      "promotion":      "MLW",
+      "date":           "02/07/2026",
+      "venue":          "Cicero Stadium, Cicero, IL",
+      "type":           "FREE",
+      "description":    "Major League Wrestling presents MLW: FIGHTLAND 2025: a premium live event.",
+      "tickets":        "https://www.eventbrite.com/e/mlw-lucha-apocalypto-2026-tickets-1348670703379?aff=ebdsoporgprofile",
+      "watch":          "https://www.youtube.com/@mlw"
+    }
+  ]
+}

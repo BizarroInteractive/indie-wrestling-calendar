@@ -1,0 +1,15 @@
+{
+  "promotion": "IWC",
+  "events": [
+    {
+      "name": "Super Indy 24",
+      "promotion": "IWC",
+      "date": "09/13/2025",
+      "venue": "Cour Time Sports Center, Elizabeth, PA",
+      "type": "PPV",
+      "description": "IWC presents SUPER INDY 24",
+      "tickets": "https://iwcwrestling.ticketleap.com/iwc-super-indy-24/?fbclid=IwZXh0bgNhZW0CMTEAAR5_snm5yzGJ9SiXO_no9ELm8liHICpLzXrBmlcWCU_6sVnh3GtE7gdNPMNvHA_aem_-d_asC7AGV1ZCpO7yEh3rQ",
+      "watch": "https://www.trillertv.com/vl/pr/international-wrestling-cartel/ppv/"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "promotion":          "HOG",
+  "events": [
+    {
+      "name":           "PHILADELPHIA",
+      "promotion":      "HOG",
+      "date":           "09/04/2025",
+      "venue":          "Trinity at 22nd, Philadelphia, PA",
+      "type":           "PPV",
+      "description":    null,
+      "tickets":        "https://www.tickettailor.com/events/houseofglorywrestling/1768728",
+      "watch":          "https://www.trillertv.com/vl/p/house-of-glory-wrestling/"
+    },
+    {
+      "name":           "With Glory Comes Pride",
+      "promotion":      "HOG",
+      "date":           "10/10/2025",
+      "venue":          "Amazura Concert Hall, Queens, NY",
+      "type":           "PPV",
+      "description":    null,
+      "tickets":        "https://www.tickettailor.com/events/houseofglorywrestling/1805518",
+      "watch":          "https://www.trillertv.com/vl/p/house-of-glory-wrestling/"
+    }
+  ]
+}

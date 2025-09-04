@@ -1,0 +1,95 @@
+{
+  "promotion":          "GCW",
+  "events": [
+    {
+      "name":           "Evil Deeds",
+      "promotion":      "GCW",
+      "date":           "09/12/2025",
+      "venue":          "Harpos Concert Theatre, Detroit, MI",
+      "type":           "PPV",
+      "description":    "GCW returns to Harpos in DETROIT for Evil Deeds 2025!",
+      "tickets":        "https://www.eventbrite.com/e/gcw-presents-evil-deeds-2025-tickets-1550036122769?aff=ebdsoporgprofile",
+      "watch":          "https://www.trillertv.com/channel/game-changer-wrestling/?srsltid=AfmBOor_IxgA1NLlc-iprkZkug2DVUCSpbknuirN48jSpPILEGFYZ_c0"
+    },
+    {
+      "name":           "The Rumble On The River",
+      "promotion":      "GCW",
+      "date":           "09/13/2025",
+      "venue":          "White River State Park, Indianapolis, IN",
+      "type":           "PPV",
+      "description":    "GCW returns to White River State Park in Indianapolis on Saturday, September 13th for The Rumble on The River!",
+      "tickets":        "https://www.eventbrite.com/e/gcw-presents-the-rumble-on-the-river-tickets-1549907608379?aff=ebdsoporgprofile",
+      "watch":          "https://www.trillertv.com/channel/game-changer-wrestling/?srsltid=AfmBOor_IxgA1NLlc-iprkZkug2DVUCSpbknuirN48jSpPILEGFYZ_c0"
+    },
+    {
+      "name":           "Cannonball FEST - A Benefit For JEFF CANNONBALL",
+      "promotion":      "GCW",
+      "date":           "09/14/2025",
+      "venue":          "New Providence High School, New Providence, NJ",
+      "type":           "PPV",
+      "description":    "The wrestling community comes together to raise money to support Jeff Cannonball and his family in their fight against ALS!",
+      "tickets":        "https://www.eventbrite.com/e/cannonball-fest-a-benefit-for-jeff-cannonball-tickets-1550173182719?aff=ebdsoporgprofile",
+      "watch":          "https://www.trillertv.com/channel/game-changer-wrestling/?srsltid=AfmBOor_IxgA1NLlc-iprkZkug2DVUCSpbknuirN48jSpPILEGFYZ_c0"
+    },
+    {
+      "name":           "Keep In Touch",
+      "promotion":      "GCW",
+      "date":           "09/19/2025",
+      "venue":          "Nile Theater, Mesa, AZ",
+      "type":           "PPV",
+      "description":    "GCW returns to The Nile Theatre in Phoenix on Friday, September 19th!",
+      "tickets":        "https://www.eventbrite.com/e/gcw-presents-keep-in-touch-2025-tickets-1549913506019?aff=ebdsoporgprofile",
+      "watch":          "https://www.trillertv.com/channel/game-changer-wrestling/?srsltid=AfmBOor_IxgA1NLlc-iprkZkug2DVUCSpbknuirN48jSpPILEGFYZ_c0"
+    },
+    {
+      "name":           "HOMECOMING: LA",
+      "promotion":      "GCW",
+      "date":           "09/20/2025",
+      "venue":          "Ukrainian Culture Center, Los Angeles, CA",
+      "type":           "PPV",
+      "description":    "GCW returns to the UCC in Los Angeles for Homecoming: LA!",
+      "tickets":        "https://www.eventbrite.com/e/gcw-presents-homecoming-la-tickets-1549982241609?aff=ebdsoporgprofile",
+      "watch":          "https://www.trillertv.com/channel/game-changer-wrestling/?srsltid=AfmBOor_IxgA1NLlc-iprkZkug2DVUCSpbknuirN48jSpPILEGFYZ_c0"
+    },
+    {
+      "name":           "The Last Frontier",
+      "promotion":      "GCW",
+      "date":           "10/04/2025",
+      "venue":          "The Arctic Rec Center, Anchorage, AK",
+      "type":           "PPV",
+      "description":    "GCW comes to Anchorage, Alaska for the first time on Saturday, October 4th!",
+      "tickets":        "https://www.eventbrite.com/e/gcw-presents-the-last-frontier-tickets-1596230371009?aff=ebdsoporgprofile",
+      "watch":          "https://www.trillertv.com/channel/game-changer-wrestling/?srsltid=AfmBOor_IxgA1NLlc-iprkZkug2DVUCSpbknuirN48jSpPILEGFYZ_c0"
+    },
+    {
+      "name":           "The Art Of War Games Night 1",
+      "promotion":      "GCW",
+      "date":           "10/11/2025",
+      "venue":          "Showboat Atlantic City, Atlantic City, NJ",
+      "type":           "PPV",
+      "description":    "The War comes to and when GCW takes on Juggalo Wrestling in the 2 ring double cage ART OF WAR GAMES match!",
+      "tickets":        "https://www.eventbrite.com/e/gcw-presents-the-art-of-war-games-2025-night-1-tickets-1641246736169?aff=ebdsoporgprofile",
+      "watch":          "https://www.trillertv.com/channel/game-changer-wrestling/?srsltid=AfmBOor_IxgA1NLlc-iprkZkug2DVUCSpbknuirN48jSpPILEGFYZ_c0"
+    },
+    {
+      "name":           "The Art Of War Games Night 2",
+      "promotion":      "GCW",
+      "date":           "10/12/2025",
+      "venue":          "Showboat Atlantic City, Atlantic City, NJ",
+      "type":           "PPV",
+      "description":    "GCW rounds out night 2 of Fight Club Weekend at The Showboat in Atlantic City",
+      "tickets":        "https://www.eventbrite.com/e/night-2-fight-club-weekend-2025-tickets-1641250026009?aff=ebdsoporgprofile",
+      "watch":          "https://www.trillertv.com/channel/game-changer-wrestling/?srsltid=AfmBOor_IxgA1NLlc-iprkZkug2DVUCSpbknuirN48jSpPILEGFYZ_c0"
+    },
+    {
+      "name":           "Shotzi Blackheart's HOUSE OF HORRORS",
+      "promotion":      "GCW",
+      "date":           "10/24/2025",
+      "venue":          "Water Street Music Hall, Rochester, NY ",
+      "type":           "PPV",
+      "description":    "GCW opens the gates to SHOTZI BLACKHEART’S HOUSE OF HORRORS! Nightmares come to life and every match is a fright you won't forget.",
+      "tickets":        "https://www.eventbrite.com/e/gcw-presents-shotzi-blackhearts-house-of-horrors-tickets-1635427259959?aff=ebdsoporgprofile",
+      "watch":          "https://www.trillertv.com/channel/game-changer-wrestling/?srsltid=AfmBOor_IxgA1NLlc-iprkZkug2DVUCSpbknuirN48jSpPILEGFYZ_c0"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "promotion":          "BLP",
+  "events": [
+    {
+      "name":           "hackSAW",
+      "promotion":      "BLP",
+      "date":           "10/04/2025",
+      "venue":          "RDS Gym, Crown Point, IN",
+      "type":           "PPV",
+      "description":    "Featuring a special meet and greet with WWE Hall of Famer Hacksaw Jim Duggan!",
+      "tickets":        "https://blacklabelpro.bigcartel.com/product/blp-hacksaw-tickets-10425?_gl=1*e61qha*_gcl_au*MTQzNjQ4NDIwNy4xNzU0NTgzNDIx*_ga*MTg3MzU0MDcwOC4xNzQ2NzQyNTg4*_ga_QZ4HDFTSEZ*czE3NTU2NDE5MDMkbzY0JGcxJHQxNzU1NjQyMTQ3JGo1NCRsMCRoMTUxNTk4OTAyNw",
+      "watch":          "https://independentwrestling.tv/partner/Black-Label-Pro?lang=en"
+    }
+  ]
+}

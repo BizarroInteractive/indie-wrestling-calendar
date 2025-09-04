@@ -1,0 +1,25 @@
+{
+  "promotion":          "DPW",
+  "events": [
+    {
+      "name":           "4th Annual Carolina Classic",
+      "promotion":      "DPW",
+      "date":           "09/14/2025",
+      "venue":          "Durham Armory, Durham, NC",
+      "type":           "PPV",
+      "description":    "DPW returns to the Durham Armory in Durham, NC on September 14th; Pro wrestlers from all around the world gather for one big event!",
+      "tickets":        "https://www.eventbrite.com/e/dpw-presents-4th-annual-carolina-classic-live-pro-wrestling-tickets-1533460103449?aff=ebdsoporgprofile",
+      "watch":          "https://play.google.com/store/apps/details?id=ott.dpwondemand&hl=en_US&pli=1"
+    },
+    {
+      "name":           "Super Battle 2025",
+      "promotion":      "DPW",
+      "date":           "10/19/2025",
+      "venue":          "Grady Cole Center, Charlotte, NC",
+      "type":           "PPV",
+      "description":    "The biggest event of the year for DEADLOCK Pro-Wrestling! Wrestlers from all over the globe gather at the historic Grady Cole Center!",
+      "tickets":        "https://www.eventbrite.com/e/dpw-presents-super-battle-2025-live-pro-wrestling-tickets-1477251943329?aff=ebdsoporgprofile",
+      "watch":          "https://play.google.com/store/apps/details?id=ott.dpwondemand&hl=en_US&pli=1"
+    }
+  ]
+}

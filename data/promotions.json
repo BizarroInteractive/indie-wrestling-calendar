@@ -1,0 +1,14 @@
+{
+  "promotions": [
+    { "name": "GCW",    "file": "GCW.json",     "rank": 1,  "color": "#CC5500" },
+    { "name": "MLW",    "file": "MLW.json",     "rank": 2,  "color": "#1a6b1a" },
+    { "name": "NWA",    "file": "NWA.json",     "rank": 3,  "color": "#1e4080" },
+    { "name": "DPW",    "file": "DPW.json",     "rank": 4,  "color": "#DC143C" },
+    { "name": "WCPW",   "file": "WCPW.json",    "rank": 5,  "color": "#800020" },
+    { "name": "HOG",    "file": "HOG.json",     "rank": 6,  "color": "#2c5f87" },
+    { "name": "ROW",    "file": "ROW.json",     "rank": 7,  "color": "#663399" },
+    { "name": "BLP",    "file": "BLP.json",     "rank": 8,  "color": "#946b00" },
+    { "name": "FW",     "file": "FW.json",      "rank": 9,  "color": "#006666" },
+    { "name": "IWC",    "file": "IWC.json",     "rank": 10, "color": "#4a5a6a" }    
+  ]
+}

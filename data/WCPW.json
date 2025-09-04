@@ -1,0 +1,25 @@
+{
+  "promotion":          "WCPW",
+  "events": [
+    {
+      "name":           "God Called In Sick Today",
+      "promotion":      "WCPW",
+      "date":           "09/05/2025",
+      "venue":          "Durham Armory, Durham, NC",
+      "type":           "PPV",
+      "description":    "West Coast Pro Wrestling returns to The Foundry!",
+      "tickets":        "https://www.eventbrite.com/e/west-coast-pro-wrestling-god-called-in-sick-today-tickets-1458521088839?aff=ebdsoporgprofile",
+      "watch":          "https://independentwrestling.tv/promotion/west-coast-pro-wrestling#:~:text=All%20VOD%20and%20Live%20Events%20Are%20Included%20With%20Your%20IWTV%20Subscription"
+    },
+    {
+      "name":           "Put That On Somethin'",
+      "promotion":      "WCPW",
+      "date":           "10/12/2025",
+      "venue":          "Fluid510, Oakland, CA",
+      "type":           "PPV",
+      "description":    "West Coast Pro Wrestling comes to OAKLAND for a night of pro wrestling!",
+      "tickets":        "https://www.eventbrite.com/e/west-coast-pro-wrestling-presents-put-that-on-somethin-tickets-1652734997869?aff=ebdsoporgprofile",
+      "watch":          "https://independentwrestling.tv/promotion/west-coast-pro-wrestling#:~:text=All%20VOD%20and%20Live%20Events%20Are%20Included%20With%20Your%20IWTV%20Subscription"
+    }
+  ]
+}

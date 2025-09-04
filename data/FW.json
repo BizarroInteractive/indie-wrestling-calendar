@@ -1,0 +1,15 @@
+{
+  "promotion":          "FW",
+  "events": [
+    {
+      "name":           "Sour Graps",
+      "promotion":      "FW",
+      "date":           "09/20/2025",
+      "venue":          "Logan Square Auditorium, Chicago, IL",
+      "type":           "",
+      "description":    "Freelance Wrestling returns to Logan Square Auditorium on 9/20/25 with our most bitter event, SOUR GRAPS!",
+      "tickets":        "https://www.eventbrite.com/e/sour-graps-tickets-1628200424299?aff=ebdsoporgprofile",
+      "watch":          "https://independentwrestling.tv/live-event/live-freelance-sour-graps-25-09-20"
+    }
+  ]
+}
